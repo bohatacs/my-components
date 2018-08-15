@@ -1,0 +1,1 @@
+A böngészõablak méretével változó Navbar
